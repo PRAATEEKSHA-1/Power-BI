@@ -1,1 +1,2 @@
 # Power-BI
+▪︎Basic intro
